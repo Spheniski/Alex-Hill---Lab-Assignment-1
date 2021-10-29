@@ -1,4 +1,3 @@
-// God damn assignment that I have no idea how to even begin please help aaaaaaaaahhhhhhhh
 //producer and comsumer
 //producer provides, consumer takes, uses table of size 2
 //if table is full: producer waits, if table is empty: consumer waits
